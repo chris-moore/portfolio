@@ -1,0 +1,131 @@
+{
+	"portfolio":
+	[
+		{
+			"title":"T-Mobile Business Center",
+			"description":"Web Business Center for T-Mobile. This site allows users to create, manage, and administer accounts for business entities.",
+			"url":null,
+			"retina":"img/thumb_retina_tmobile.jpg",
+			"img":"img/thumb_tmobile.jpg"
+		},
+		{
+			"title":"Dupont Employee Central",
+			"description":"Responsive site for Dupont's employee web portal. The site has one breakpoint at 768px. Optimized for all modern browsers, in addition to Internet Explorer 8.",
+			"url":null,
+			"retina":"img/thumb_retina_dupont.jpg",
+			"img":"img/thumb_dupont.jpg"
+		},
+		{
+			"title":"Pennsylvania's Job Gateway",
+			"description":"Mobile site for the Commmonwealth of Pennsylvania's Job Gateway site. Users can search a location for a job and submit their resume to the employer through the site.",
+			"url":null,
+			"retina":"img/thumb_retina_copa.png",
+			"img":"img/thumb_copa.png"
+		},
+		{
+			"title":"The Vow",
+			"description":"Built for Sony Pictures while working at <a href='http://andcompany.com' target='_blank'>and Company</a>, this project is HTML, featuring JQuery, lightbox, and HTML5.",
+			"url":null,
+			"retina":"img/thumb_vow.png",
+			"img":"img/thumb_vow.png"
+		},
+		{
+			"title":"New Year's Eve",
+			"description":"Built while working at <a href='http://andcompany.com' target='_blank'>and Company</a>, this website consisted of two versions: Flash and HTML/Mobile compatible.",
+			"url":null,
+			"retina":"img/thumb_nye.png",
+			"img":"img/thumb_nye.png"
+		},
+		{
+			"title":"Crazy Stupid Love",
+			"description":"Flash site built while working at <a href='http://andcompany.com' target='_blank'>and Company</a>, the Facebook app has users take a quiz to determine where they land on the axis.",
+			"url":null,
+			"retina":"img/thumb_csl.png",
+			"img":"img/thumb_csl.png"
+		},
+		{
+			"title":"Hangover 2 Facebook App",
+			"description":"This app allows users to upload or capture an image of their face and place it onto versions of the Hangover 2 movie posters. Built while working at <a href='http://andcompany.com' target='_blank'>and Company</a>.",
+			"url":null,
+			"retina":"img/thumb_hangover2.png",
+			"img":"img/thumb_hangover2.png"
+		},
+		{
+			"title":"Spartacus: Enter the Arena",
+			"description":"Built for Starz while working at <a href='http://andcompany.com' target='_blank'>and Company</a>. After seven levels of customization an image is generated, allowing for download or posting to Facebook or Twitter.",
+			"url":null,
+			"retina":"img/thumb_spartacus.png",
+			"img":"img/thumb_spartacus.png"
+		},
+		{
+			"title":"2011 Scion xB Release Series",
+			"description":"This is an interactive YouTube video experience I built for Scion while working for <a href='http://andcompany.com' target='_blank'>and Company</a>.",
+			"url":null,
+			"retina":"img/thumb_xb.png",
+			"img":"img/thumb_xb.png"
+		},
+		{
+			"title":"Hereafter",
+			"description":"The second theatrical website I built at <a href='http://andcompany.com' target='_blank'>and Company</a>. In addition to the site build I rendered site video transitions using Adobe's After Effects.",
+			"url":null,
+			"retina":"img/thumb_hereafter.png",
+			"img":"img/thumb_hereafter.png"
+		},
+		{
+			"title":"Scion: Take On The Machine",
+			"description":"I built this choose your own adventure video project at <a href='http://andcompany.com' target='_blank'>and Company</a>. Users choose their path through The Machine by selecting which direction to take following a video sequence.",
+			"url":null,
+			"retina":"img/thumb_totm.png",
+			"img":"img/thumb_totm.png"
+		},
+		{
+			"title":"Unarmed and Dangerous",
+			"description":"This game was built with Flash and ActionScript. It uses my Particle Engine and SoundManager ActionScript classes as the basis for gameplay.",
+			"url":null,
+			"retina":"img/thumb_familyguy.jpg",
+			"img":"img/thumb_familyguy.jpg"
+		},
+		{
+			"title":"Puzzle Quest: Galactrix",
+			"description":"My role was to create a single level of the in progress sequel to Puzzle Quest. Using an early game beta as reference, I built the game using the Model View Controller design pattern.",
+			"url":null,
+			"retina":"img/thumb_galactrix.jpg",
+			"img":"img/thumb_galactrix.jpg"
+		},
+		{
+			"title":"Pinocchio",
+			"description":"Each of the six pages on the site have a game. I built those games. The site uses my ActionScript 3 site framework as well.",
+			"url":null,
+			"retina":"img/thumb_pinocchio.png",
+			"img":"img/thumb_pinocchio.png"
+		},
+		{
+			"title":"Sleeping Beauty",
+			"description":"This was the first major Flash site I built using ActionScript 3. I was tasked with creating an xml driven, fully localizable flash site to promote the Sleeping Beauty DVD and Blu-ray.",
+			"url":null,
+			"retina":"img/thumb_sleepingbeauty.png",
+			"img":"img/thumb_sleepingbeauty.png"
+		},
+		{
+			"title":"National Treasure 2",
+			"description":"Along with re-purposing the European website for American markets (including localization for latin markets), I built a puzzle game called 'Platform,' a concept similar to Tetris.",
+			"url":null,
+			"retina":"img/thumb_platform.png",
+			"img":"img/thumb_platform.png"
+		},
+		{
+			"title":"Universal Video On Demand",
+			"description":"I built an xml driven framework of flash modules, loaded at run-time. The site was built in Flash 8 using ActionScript 2.",
+			"url":null,
+			"retina":"img/thumb_retina_vod.jpg",
+			"img":"img/thumb_retina_vod.jpg"
+		},
+		{
+			"title":"Disney Blu-ray",
+			"description":"For this project I architected an xml driven framework of Flash modules. Each section displays modules based on a configuration file.",
+			"url":null,
+			"retina":"img/thumb_bluray.png",
+			"img":"img/thumb_bluray.png"
+		}
+	] 
+}
