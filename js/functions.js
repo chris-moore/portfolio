@@ -96,7 +96,6 @@ function buildPortfolio() {
 	}
 	
 	$("#portfolio_items").html(total);
-	//document.getElementById("portfolio_container").write(str);
 }
 
 /**
