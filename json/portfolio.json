@@ -2,6 +2,20 @@
 	"portfolio":
 	[
 		{
+			"title":"Transamerica Wellthpoint",
+			"description":"Responsive web application prototype built for Transamerica to monitor financial wellness.",
+			"url":null,
+			"retina":"img/thumb_transamerica.jpg",
+			"img":"img/thumb_transamerica.jpg"
+		},
+		{
+			"title":"Visa",
+			"description":"Credit Performance Accelerator tool built for B2B consumers on Visa's closed network.",
+			"url":null,
+			"retina":"img/thumb_visa.jpg",
+			"img":"img/thumb_visa.jpg"
+		},
+		{
 			"title":"T-Mobile Business Center",
 			"description":"Web Business Center for T-Mobile. This site allows users to create, manage, and administer accounts for business entities.",
 			"url":null,
